@@ -11,11 +11,11 @@
 
 ```
 
-My name is:
+My name is: Colleen Romeo
 
-I like to:
+I like to: drink hot green tea, iced green tea, and green teea frappaccinos. Did I mention I really like green tea?
 
-I'm learning:
+I'm learning: to become a front end web developer!
 
 ```
 
